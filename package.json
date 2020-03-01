@@ -1,0 +1,27 @@
+{
+  "name": "ejercicioimportexport",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "server.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sa"
+  ],
+  "author": "so",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Imakaze/ejercicioexportarimportar.git"
+  }
+}
